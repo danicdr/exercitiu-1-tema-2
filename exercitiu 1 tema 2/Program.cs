@@ -26,5 +26,7 @@ namespace MyFirstProgram2._1
             Console.ReadLine();
 
         }
-    }
+    }//Scrieti un program care va afisa suma cifrelor unui numar n, n fiind citit de la tastatura.
+
+
 }
